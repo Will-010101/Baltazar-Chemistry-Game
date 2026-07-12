@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baltazar_project", "Baltazar_project\Baltazar_project.csproj", "{786A40D6-2B26-4D30-9201-603DA5D1C660}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup3", "Setup3\Setup3.vdproj", "{1E41DFDD-9B67-4999-8BB5-08EC9F0F08B6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup4", "Setup4\Setup4.vdproj", "{EB6D011A-5049-4D90-8B2C-02445BA40212}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{786A40D6-2B26-4D30-9201-603DA5D1C660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{786A40D6-2B26-4D30-9201-603DA5D1C660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{786A40D6-2B26-4D30-9201-603DA5D1C660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{786A40D6-2B26-4D30-9201-603DA5D1C660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E41DFDD-9B67-4999-8BB5-08EC9F0F08B6}.Debug|Any CPU.ActiveCfg = Debug
+		{1E41DFDD-9B67-4999-8BB5-08EC9F0F08B6}.Release|Any CPU.ActiveCfg = Release
+		{EB6D011A-5049-4D90-8B2C-02445BA40212}.Debug|Any CPU.ActiveCfg = Debug
+		{EB6D011A-5049-4D90-8B2C-02445BA40212}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D7230ED-E745-4A6A-9D4D-DDF56A3B349C}
+	EndGlobalSection
+EndGlobal
