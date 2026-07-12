@@ -30,19 +30,19 @@ The project was developed as an educational software solution that combines prog
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/Screenshots(1).png" width="700">
+  <img src="screenshots/Screenshot(1).png" width="700">
 </p>
 
 <p align="center">
-  <img src="screenshots/Screenshots(2).png" width="700">
+  <img src="screenshots/Screenshot(2).png" width="700">
 </p>
 
 <p align="center">
-  <img src="screenshots/Screenshots(3).png" width="700">
+  <img src="screenshots/Screenshot(3).png" width="700">
 </p>
 
 <p align="center">
-  <img src="screenshots/Screenshots(4).png" width="700">
+  <img src="screenshots/Screenshot(4).png" width="700">
 </p>
 
 ## Author
