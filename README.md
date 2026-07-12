@@ -27,18 +27,22 @@ The project was developed as an educational software solution that combines prog
 - Implementation of educational concepts through software design
 
 
-## Certificates
-
-The project was developed for the National Research Centers Software Competition.
-
-<p align="center">
-  <img src="certificates/certificate.png" width="700">
-</p>
-
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/main-window.png" width="700">
+  <img src="screenshots/Screenshots(1).png" width="700">
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshots(2).png" width="700">
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshots(3).png" width="700">
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshots(4).png" width="700">
 </p>
 
 ## Author
